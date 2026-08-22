@@ -1,0 +1,14 @@
+{
+    "salesTerritoriesAssignments": "تخصیص مناطق فروش",
+    "salesTerritoriesCode": "کد",
+    "salesTerritoriesDescription": "توضیحات",
+    "salesTerritoriesEndDate": "تاریخ پایان",
+    "salesTerritoriesParent": "منطقه بالادستی",
+    "salesTerritoriesPlace": "مکان",
+    "salesTerritoriesSalesPerson": "کارشناس فروش",
+    "salesTerritoriesSalesTerritories": "مناطق فروش",
+    "salesTerritoriesStartDate": "تاریخ شروع",
+    "salesTerritoriesState": "مرحله",
+    "salesTerritoriesTerritories": "مناطق فروش",
+    "salesTerritoriesTerritory": "منطقه فروش"
+}

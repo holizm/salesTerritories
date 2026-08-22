@@ -1,0 +1,30 @@
+salesTerritory
+    title
+    code
+    place optional
+    parent optional
+    state
+    description optional
+    unique code
+territoryAssignment
+    salesTerritory
+    salesPerson
+    startDate
+    endDate optional
+    unique salesTerritory salesPerson startDate
+territoryCustomer
+    salesTerritory
+    customer
+    assignedDate
+    endDate optional
+    unique salesTerritory customer
+territoryLead
+    salesTerritory
+    lead
+    assignedDate
+    endDate optional
+    unique salesTerritory lead
+territoryTarget
+    salesTerritory
+    salesTarget
+    unique salesTerritory salesTarget
