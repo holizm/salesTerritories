@@ -11,6 +11,7 @@ export default [
             },
         ],
         icon: 'map',
+        path: '/salesTerritories',
         title: 'salesTerritoriesSalesTerritories',
     },
 ]
