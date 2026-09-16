@@ -8,7 +8,7 @@ const headers = <>
     <th start>salesTerritoriesTerritory</th>
     <th>salesTerritoriesCode</th>
     <th>salesTerritoriesPlace</th>
-    <th>salesTerritoriesState</th>
+    <th>stateMachinesState</th>
 </>
 
 const row = item => <>
