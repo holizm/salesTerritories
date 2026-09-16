@@ -1,19 +1,17 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
-        "assignments": "Territory assignments",
+    "common": {
+        "salesTerritories": "Sales territories",
         "code": "Code",
         "description": "Description",
         "endDate": "End date",
         "parent": "Parent territory",
         "place": "Place",
         "salesPerson": "Salesperson",
-        "salesTerritories": "Sales territories",
         "startDate": "Start date",
         "state": "State",
-        "territories": "Sales territories",
         "territory": "Sales territory"
     },
-    "site": {}
+    "panel": {
+        "assignments": "Territory assignments"
+    }
 }
