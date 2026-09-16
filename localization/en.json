@@ -1,14 +1,8 @@
 {
     "common": {
         "salesTerritories": "Sales territories",
-        "code": "Code",
-        "description": "Description",
-        "endDate": "End date",
         "parent": "Parent territory",
-        "place": "Place",
         "salesPerson": "Salesperson",
-        "startDate": "Start date",
-        "state": "State",
         "territory": "Sales territory"
     },
     "panel": {

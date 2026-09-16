@@ -1,14 +1,8 @@
 {
     "common": {
         "salesTerritories": "مناطق فروش",
-        "code": "کد",
-        "description": "توضیحات",
-        "endDate": "تاریخ پایان",
         "parent": "منطقه بالادستی",
-        "place": "مکان",
         "salesPerson": "کارشناس فروش",
-        "startDate": "تاریخ شروع",
-        "state": "مرحله",
         "territory": "منطقه فروش"
     },
     "panel": {
