@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "बिक्री क्षेत्र",
+        "parent": "मूल क्षेत्र",
+        "salesPerson": "विक्रेता",
+        "territory": "बिक्री क्षेत्र"
+    },
+    "panel": {
+        "assignments": "क्षेत्र आवंटन"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "เขตการขาย",
+        "parent": "เขตหลัก",
+        "salesPerson": "พนักงานขาย",
+        "territory": "เขตการขาย"
+    },
+    "panel": {
+        "assignments": "การมอบหมายเขต"
+    }
+}

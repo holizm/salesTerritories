@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "বিক্রয় অঞ্চলসমূহ",
+        "parent": "মূল অঞ্চল",
+        "salesPerson": "বিক্রয়কর্মী",
+        "territory": "বিক্রয় অঞ্চল"
+    },
+    "panel": {
+        "assignments": "অঞ্চল বরাদ্দসমূহ"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "ಮಾರಾಟ ಪ್ರದೇಶಗಳು",
+        "parent": "ಮೂಲ ಪ್ರದೇಶ",
+        "salesPerson": "ಮಾರಾಟ ಪ್ರತಿನಿಧಿ",
+        "territory": "ಮಾರಾಟ ಪ್ರದೇಶ"
+    },
+    "panel": {
+        "assignments": "ಪ್ರದೇಶ ನಿಯೋಜನೆಗಳು"
+    }
+}

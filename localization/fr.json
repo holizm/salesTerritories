@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Territoires de vente",
+        "parent": "Territoire parent",
+        "salesPerson": "Commercial",
+        "territory": "Territoire de vente"
+    },
+    "panel": {
+        "assignments": "Affectations de territoires"
+    }
+}

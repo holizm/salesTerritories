@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Satış bölgeleri",
+        "parent": "Üst bölge",
+        "salesPerson": "Satış temsilcisi",
+        "territory": "Satış bölgesi"
+    },
+    "panel": {
+        "assignments": "Bölge atamaları"
+    }
+}

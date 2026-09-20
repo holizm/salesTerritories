@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Maeneo ya mauzo",
+        "parent": "Eneo kuu",
+        "salesPerson": "Muuzaji",
+        "territory": "Eneo la mauzo"
+    },
+    "panel": {
+        "assignments": "Ugawaji wa maeneo"
+    }
+}

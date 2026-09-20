@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "فروخت کے علاقے",
+        "parent": "بنیادی علاقہ",
+        "salesPerson": "فروخت کنندہ",
+        "territory": "فروخت کا علاقہ"
+    },
+    "panel": {
+        "assignments": "علاقے کی تفویضات"
+    }
+}

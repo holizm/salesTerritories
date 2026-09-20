@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Teritorii de vânzări",
+        "parent": "Teritoriu părinte",
+        "salesPerson": "Agent de vânzări",
+        "territory": "Teritoriu de vânzări"
+    },
+    "panel": {
+        "assignments": "Alocări de teritorii"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Продајна подручја",
+        "parent": "Надређено подручје",
+        "salesPerson": "Продајни представник",
+        "territory": "Продајно подручје"
+    },
+    "panel": {
+        "assignments": "Доделе подручја"
+    }
+}

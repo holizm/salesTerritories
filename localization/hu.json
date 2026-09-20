@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Értékesítési területek",
+        "parent": "Fölérendelt terület",
+        "salesPerson": "Értékesítő",
+        "territory": "Értékesítési terület"
+    },
+    "panel": {
+        "assignments": "Területi hozzárendelések"
+    }
+}

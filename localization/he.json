@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "אזורי מכירות",
+        "parent": "אזור אב",
+        "salesPerson": "איש מכירות",
+        "territory": "אזור מכירות"
+    },
+    "panel": {
+        "assignments": "הקצאות אזורים"
+    }
+}

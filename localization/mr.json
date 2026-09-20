@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "विक्री प्रदेश",
+        "parent": "मूळ प्रदेश",
+        "salesPerson": "विक्रेता",
+        "territory": "विक्री प्रदेश"
+    },
+    "panel": {
+        "assignments": "प्रदेश वाटप"
+    }
+}

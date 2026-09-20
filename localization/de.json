@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Verkaufsgebiete",
+        "parent": "Übergeordnetes Gebiet",
+        "salesPerson": "Vertriebsmitarbeiter",
+        "territory": "Verkaufsgebiet"
+    },
+    "panel": {
+        "assignments": "Gebietszuweisungen"
+    }
+}

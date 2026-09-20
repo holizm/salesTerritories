@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "የሽያጭ ክልሎች",
+        "parent": "ወላጅ ክልል",
+        "salesPerson": "የሽያጭ ተወካይ",
+        "territory": "የሽያጭ ክልል"
+    },
+    "panel": {
+        "assignments": "የክልል ምደባዎች"
+    }
+}

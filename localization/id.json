@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Wilayah penjualan",
+        "parent": "Wilayah induk",
+        "salesPerson": "Tenaga penjualan",
+        "territory": "Wilayah penjualan"
+    },
+    "panel": {
+        "assignments": "Penugasan wilayah"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "விற்பனைப் பகுதிகள்",
+        "parent": "முதன்மைப் பகுதி",
+        "salesPerson": "விற்பனைப் பிரதிநிதி",
+        "territory": "விற்பனைப் பகுதி"
+    },
+    "panel": {
+        "assignments": "பகுதி ஒதுக்கீடுகள்"
+    }
+}

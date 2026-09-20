@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "વેચાણ પ્રદેશો",
+        "parent": "મુખ્ય પ્રદેશ",
+        "salesPerson": "વેચાણ પ્રતિનિધિ",
+        "territory": "વેચાણ પ્રદેશ"
+    },
+    "panel": {
+        "assignments": "પ્રદેશ સોંપણીઓ"
+    }
+}

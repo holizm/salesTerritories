@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Àwọn agbègbè títà",
+        "parent": "Agbègbè òbí",
+        "salesPerson": "Aṣojú títà",
+        "territory": "Agbègbè títà"
+    },
+    "panel": {
+        "assignments": "Àwọn ìyàn agbègbè"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Verkoopsgebiede",
+        "parent": "Ouergebied",
+        "salesPerson": "Verkoopsverteenwoordiger",
+        "territory": "Verkoopsgebied"
+    },
+    "panel": {
+        "assignments": "Gebiedstoewysings"
+    }
+}

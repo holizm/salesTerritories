@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Prodejní oblasti",
+        "parent": "Nadřazená oblast",
+        "salesPerson": "Prodejce",
+        "territory": "Prodejní oblast"
+    },
+    "panel": {
+        "assignments": "Přiřazení oblastí"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Myyntialueet",
+        "parent": "Ylempi alue",
+        "salesPerson": "Myyjä",
+        "territory": "Myyntialue"
+    },
+    "panel": {
+        "assignments": "Alueiden määritykset"
+    }
+}

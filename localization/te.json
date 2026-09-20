@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "అమ్మకాల ప్రాంతాలు",
+        "parent": "మాతృ ప్రాంతం",
+        "salesPerson": "విక్రయ ప్రతినిధి",
+        "territory": "అమ్మకాల ప్రాంతం"
+    },
+    "panel": {
+        "assignments": "ప్రాంత కేటాయింపులు"
+    }
+}

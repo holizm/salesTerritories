@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Περιοχές πωλήσεων",
+        "parent": "Γονική περιοχή",
+        "salesPerson": "Πωλητής",
+        "territory": "Περιοχή πωλήσεων"
+    },
+    "panel": {
+        "assignments": "Αναθέσεις περιοχών"
+    }
+}

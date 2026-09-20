@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Khu vực bán hàng",
+        "parent": "Khu vực cấp trên",
+        "salesPerson": "Nhân viên bán hàng",
+        "territory": "Khu vực bán hàng"
+    },
+    "panel": {
+        "assignments": "Phân công khu vực"
+    }
+}

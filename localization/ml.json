@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "വിൽപ്പന പ്രദേശങ്ങൾ",
+        "parent": "മാതൃ പ്രദേശം",
+        "salesPerson": "വിൽപ്പന പ്രതിനിധി",
+        "territory": "വിൽപ്പന പ്രദേശം"
+    },
+    "panel": {
+        "assignments": "പ്രദേശ ചുമതലകൾ"
+    }
+}

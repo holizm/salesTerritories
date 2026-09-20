@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "ਵਿਕਰੀ ਖੇਤਰ",
+        "parent": "ਮੁੱਖ ਖੇਤਰ",
+        "salesPerson": "ਵਿਕਰੀ ਪ੍ਰਤੀਨਿਧੀ",
+        "territory": "ਵਿਕਰੀ ਖੇਤਰ"
+    },
+    "panel": {
+        "assignments": "ਖੇਤਰ ਨਿਯੁਕਤੀਆਂ"
+    }
+}

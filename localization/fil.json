@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Mga teritoryo ng benta",
+        "parent": "Pangunahing teritoryo",
+        "salesPerson": "Salesperson",
+        "territory": "Teritoryo ng benta"
+    },
+    "panel": {
+        "assignments": "Mga pagtatalaga ng teritoryo"
+    }
+}

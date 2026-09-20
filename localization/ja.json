@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "販売地域",
+        "parent": "上位地域",
+        "salesPerson": "営業担当者",
+        "territory": "販売地域"
+    },
+    "panel": {
+        "assignments": "地域の割り当て"
+    }
+}

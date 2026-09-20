@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "مناطق المبيعات",
+        "parent": "المنطقة الأم",
+        "salesPerson": "مندوب المبيعات",
+        "territory": "منطقة المبيعات"
+    },
+    "panel": {
+        "assignments": "تعيينات المناطق"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Försäljningsområden",
+        "parent": "Överordnat område",
+        "salesPerson": "Säljare",
+        "territory": "Försäljningsområde"
+    },
+    "panel": {
+        "assignments": "Områdestilldelningar"
+    }
+}

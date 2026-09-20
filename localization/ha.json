@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Yankunan tallace-tallace",
+        "parent": "Yanki na sama",
+        "salesPerson": "Jami'in tallace-tallace",
+        "territory": "Yankin tallace-tallace"
+    },
+    "panel": {
+        "assignments": "Rarraba yankuna"
+    }
+}

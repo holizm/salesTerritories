@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "အရောင်းနယ်မြေများ",
+        "parent": "မိခင်နယ်မြေ",
+        "salesPerson": "အရောင်းဝန်ထမ်း",
+        "territory": "အရောင်းနယ်မြေ"
+    },
+    "panel": {
+        "assignments": "နယ်မြေတာဝန်ပေးမှုများ"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "common": {
+        "salesTerritories": "Terytoria sprzedaży",
+        "parent": "Terytorium nadrzędne",
+        "salesPerson": "Sprzedawca",
+        "territory": "Terytorium sprzedaży"
+    },
+    "panel": {
+        "assignments": "Przypisania terytoriów"
+    }
+}
