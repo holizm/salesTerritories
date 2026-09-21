@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "विक्री प्रदेश",
+        "assignment": "प्रदेश वाटप",
+        "assignments": "प्रदेश वाटप",
         "parent": "मूळ प्रदेश",
         "salesPerson": "विक्रेता",
-        "territory": "विक्री प्रदेश"
+        "salesTerritories": "विक्री प्रदेश",
+        "territory": "विक्री प्रदेश",
+        "territoryCustomer": "विक्री प्रदेश – ग्राहक",
+        "territoryCustomers": "विक्री प्रदेश – ग्राहक",
+        "territoryLead": "विक्री प्रदेश – संभाव्य ग्राहक",
+        "territoryLeads": "विक्री प्रदेश – संभाव्य ग्राहक",
+        "territoryTarget": "विक्री प्रदेश – विक्री लक्ष्य",
+        "territoryTargets": "विक्री प्रदेश – विक्री लक्ष्ये"
     },
-    "panel": {
-        "assignments": "प्रदेश वाटप"
-    }
+    "panel": {}
 }

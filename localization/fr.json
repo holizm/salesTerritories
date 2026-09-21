@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Territoires de vente",
+        "assignment": "Affectations de territoires",
+        "assignments": "Affectations de territoires",
         "parent": "Territoire parent",
         "salesPerson": "Commercial",
-        "territory": "Territoire de vente"
+        "salesTerritories": "Territoires de vente",
+        "territory": "Territoire de vente",
+        "territoryCustomer": "Territoire de vente – Client",
+        "territoryCustomers": "Territoires de vente – Clients",
+        "territoryLead": "Territoire de vente – Prospect",
+        "territoryLeads": "Territoires de vente – Prospects",
+        "territoryTarget": "Territoire de vente – Objectif de vente",
+        "territoryTargets": "Territoires de vente – Objectifs de vente"
     },
-    "panel": {
-        "assignments": "Affectations de territoires"
-    }
+    "panel": {}
 }

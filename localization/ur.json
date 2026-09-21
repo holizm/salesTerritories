@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "فروخت کے علاقے",
+        "assignment": "علاقے کی تفویضات",
+        "assignments": "علاقے کی تفویضات",
         "parent": "بنیادی علاقہ",
         "salesPerson": "فروخت کنندہ",
-        "territory": "فروخت کا علاقہ"
+        "salesTerritories": "فروخت کے علاقے",
+        "territory": "فروخت کا علاقہ",
+        "territoryCustomer": "فروخت کا علاقہ – صارف",
+        "territoryCustomers": "فروخت کے علاقے – گاہک",
+        "territoryLead": "فروخت کا علاقہ – ممکنہ گاہک",
+        "territoryLeads": "فروخت کے علاقے – ممکنہ گاہک",
+        "territoryTarget": "فروخت کا علاقہ – فروخت کا ہدف",
+        "territoryTargets": "فروخت کے علاقے – فروخت کے اہداف"
     },
-    "panel": {
-        "assignments": "علاقے کی تفویضات"
-    }
+    "panel": {}
 }

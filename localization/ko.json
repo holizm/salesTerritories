@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "판매 지역",
+        "assignment": "지역 배정",
+        "assignments": "지역 배정",
         "parent": "상위 지역",
         "salesPerson": "영업 담당자",
-        "territory": "판매 지역"
+        "salesTerritories": "판매 지역",
+        "territory": "판매 지역",
+        "territoryCustomer": "판매 지역 – 고객",
+        "territoryCustomers": "판매 지역 – 고객",
+        "territoryLead": "판매 지역 – 잠재 고객",
+        "territoryLeads": "판매 지역 – 잠재 고객",
+        "territoryTarget": "판매 지역 – 판매 목표",
+        "territoryTargets": "판매 지역 – 판매 목표"
     },
-    "panel": {
-        "assignments": "지역 배정"
-    }
+    "panel": {}
 }

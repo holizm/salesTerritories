@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Wilayah jualan",
+        "assignment": "Penugasan wilayah",
+        "assignments": "Penugasan wilayah",
         "parent": "Wilayah induk",
         "salesPerson": "Jurujual",
-        "territory": "Wilayah jualan"
+        "salesTerritories": "Wilayah jualan",
+        "territory": "Wilayah jualan",
+        "territoryCustomer": "Wilayah jualan – Pelanggan",
+        "territoryCustomers": "Wilayah jualan – Pelanggan",
+        "territoryLead": "Wilayah jualan – Bakal pelanggan",
+        "territoryLeads": "Wilayah jualan – Bakal pelanggan",
+        "territoryTarget": "Wilayah jualan – Sasaran jualan",
+        "territoryTargets": "Wilayah jualan – Sasaran jualan"
     },
-    "panel": {
-        "assignments": "Penugasan wilayah"
-    }
+    "panel": {}
 }

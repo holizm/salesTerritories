@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "مناطق المبيعات",
+        "assignment": "تعيينات المناطق",
+        "assignments": "تعيينات المناطق",
         "parent": "المنطقة الأم",
         "salesPerson": "مندوب المبيعات",
-        "territory": "منطقة المبيعات"
+        "salesTerritories": "مناطق المبيعات",
+        "territory": "منطقة المبيعات",
+        "territoryCustomer": "منطقة المبيعات – العميل",
+        "territoryCustomers": "مناطق المبيعات – عملاء",
+        "territoryLead": "منطقة المبيعات – عميل محتمل",
+        "territoryLeads": "مناطق المبيعات – العملاء المحتملون",
+        "territoryTarget": "منطقة المبيعات – هدف المبيعات",
+        "territoryTargets": "مناطق المبيعات – أهداف المبيعات"
     },
-    "panel": {
-        "assignments": "تعيينات المناطق"
-    }
+    "panel": {}
 }

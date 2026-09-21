@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "বিক্রয় অঞ্চলসমূহ",
+        "assignment": "অঞ্চল বরাদ্দসমূহ",
+        "assignments": "অঞ্চল বরাদ্দসমূহ",
         "parent": "মূল অঞ্চল",
         "salesPerson": "বিক্রয়কর্মী",
-        "territory": "বিক্রয় অঞ্চল"
+        "salesTerritories": "বিক্রয় অঞ্চলসমূহ",
+        "territory": "বিক্রয় অঞ্চল",
+        "territoryCustomer": "বিক্রয় অঞ্চল – গ্রাহক",
+        "territoryCustomers": "বিক্রয় অঞ্চলসমূহ – গ্রাহক",
+        "territoryLead": "বিক্রয় অঞ্চল – সম্ভাব্য গ্রাহক",
+        "territoryLeads": "বিক্রয় অঞ্চলসমূহ – সম্ভাব্য গ্রাহকরা",
+        "territoryTarget": "বিক্রয় অঞ্চল – বিক্রয় লক্ষ্য",
+        "territoryTargets": "বিক্রয় অঞ্চলসমূহ – বিক্রয় লক্ষ্যমাত্রা"
     },
-    "panel": {
-        "assignments": "অঞ্চল বরাদ্দসমূহ"
-    }
+    "panel": {}
 }

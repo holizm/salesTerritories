@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Sales territories",
+        "assignment": "Territory assignments",
+        "assignments": "Territory assignments",
         "parent": "Parent territory",
         "salesPerson": "Salesperson",
-        "territory": "Sales territory"
+        "salesTerritories": "Sales territories",
+        "territory": "Sales territory",
+        "territoryCustomer": "Sales territory – Customer",
+        "territoryCustomers": "Sales territories – Customers",
+        "territoryLead": "Sales territory – Lead",
+        "territoryLeads": "Sales territories – Leads",
+        "territoryTarget": "Sales territory – Sales target",
+        "territoryTargets": "Sales territories – Sales targets"
     },
-    "panel": {
-        "assignments": "Territory assignments"
-    }
+    "panel": {}
 }

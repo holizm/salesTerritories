@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Yankunan tallace-tallace",
+        "assignment": "Rarraba yankuna",
+        "assignments": "Rarraba yankuna",
         "parent": "Yanki na sama",
         "salesPerson": "Jami'in tallace-tallace",
-        "territory": "Yankin tallace-tallace"
+        "salesTerritories": "Yankunan tallace-tallace",
+        "territory": "Yankin tallace-tallace",
+        "territoryCustomer": "Yankin tallace-tallace – Abokin ciniki",
+        "territoryCustomers": "Yankunan tallace-tallace – Abokan ciniki",
+        "territoryLead": "Yankin tallace-tallace – Abokin ciniki mai yiwuwa",
+        "territoryLeads": "Yankunan tallace-tallace – Abokan ciniki masu yiwuwa",
+        "territoryTarget": "Yankin tallace-tallace – Burin tallace-tallace",
+        "territoryTargets": "Yankunan tallace-tallace – Burin tallace-tallace"
     },
-    "panel": {
-        "assignments": "Rarraba yankuna"
-    }
+    "panel": {}
 }

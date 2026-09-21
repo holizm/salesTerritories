@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Àwọn agbègbè títà",
+        "assignment": "Àwọn ìyàn agbègbè",
+        "assignments": "Àwọn ìyàn agbègbè",
         "parent": "Agbègbè òbí",
         "salesPerson": "Aṣojú títà",
-        "territory": "Agbègbè títà"
+        "salesTerritories": "Àwọn agbègbè títà",
+        "territory": "Agbègbè títà",
+        "territoryCustomer": "Agbègbè títà – Oníbàárà",
+        "territoryCustomers": "Àwọn agbègbè títà – Àwọn oníbàárà",
+        "territoryLead": "Agbègbè títà – Oníbàárà tó ṣeé ṣe",
+        "territoryLeads": "Àwọn agbègbè títà – Àwọn oníbàárà tó ṣeé ṣe",
+        "territoryTarget": "Agbègbè títà – Àfojúsùn títà",
+        "territoryTargets": "Àwọn agbègbè títà – Àwọn àfojúsùn títà"
     },
-    "panel": {
-        "assignments": "Àwọn ìyàn agbègbè"
-    }
+    "panel": {}
 }

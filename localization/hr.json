@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Prodajna područja",
+        "assignment": "Dodjele područja",
+        "assignments": "Dodjele područja",
         "parent": "Nadređeno područje",
         "salesPerson": "Prodajni predstavnik",
-        "territory": "Prodajno područje"
+        "salesTerritories": "Prodajna područja",
+        "territory": "Prodajno područje",
+        "territoryCustomer": "Prodajno područje – Klijent",
+        "territoryCustomers": "Prodajna područja – Kupci",
+        "territoryLead": "Prodajno područje – Potencijalni klijent",
+        "territoryLeads": "Prodajna područja – Potencijalni klijenti",
+        "territoryTarget": "Prodajno područje – Prodajni cilj",
+        "territoryTargets": "Prodajna područja – Prodajni ciljevi"
     },
-    "panel": {
-        "assignments": "Dodjele područja"
-    }
+    "panel": {}
 }

@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "అమ్మకాల ప్రాంతాలు",
+        "assignment": "ప్రాంత కేటాయింపులు",
+        "assignments": "ప్రాంత కేటాయింపులు",
         "parent": "మాతృ ప్రాంతం",
         "salesPerson": "విక్రయ ప్రతినిధి",
-        "territory": "అమ్మకాల ప్రాంతం"
+        "salesTerritories": "అమ్మకాల ప్రాంతాలు",
+        "territory": "అమ్మకాల ప్రాంతం",
+        "territoryCustomer": "అమ్మకాల ప్రాంతం – వినియోగదారు",
+        "territoryCustomers": "అమ్మకాల ప్రాంతాలు – వినియోగదారులు",
+        "territoryLead": "అమ్మకాల ప్రాంతం – సంభావ్య కస్టమర్",
+        "territoryLeads": "అమ్మకాల ప్రాంతాలు – సంభావ్య కస్టమర్లు",
+        "territoryTarget": "అమ్మకాల ప్రాంతం – అమ్మకాల లక్ష్యం",
+        "territoryTargets": "అమ్మకాల ప్రాంతాలు – అమ్మకాల లక్ష్యాలు"
     },
-    "panel": {
-        "assignments": "ప్రాంత కేటాయింపులు"
-    }
+    "panel": {}
 }

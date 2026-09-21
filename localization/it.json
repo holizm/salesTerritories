@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Territori di vendita",
+        "assignment": "Assegnazioni dei territori",
+        "assignments": "Assegnazioni dei territori",
         "parent": "Territorio superiore",
         "salesPerson": "Addetto alle vendite",
-        "territory": "Territorio di vendita"
+        "salesTerritories": "Territori di vendita",
+        "territory": "Territorio di vendita",
+        "territoryCustomer": "Territorio di vendita – Cliente",
+        "territoryCustomers": "Territori di vendita – Clienti",
+        "territoryLead": "Territorio di vendita – Potenziale cliente",
+        "territoryLeads": "Territori di vendita – Potenziali clienti",
+        "territoryTarget": "Territorio di vendita – Obiettivo di vendita",
+        "territoryTargets": "Territori di vendita – Obiettivi di vendita"
     },
-    "panel": {
-        "assignments": "Assegnazioni dei territori"
-    }
+    "panel": {}
 }

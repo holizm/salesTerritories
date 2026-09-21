@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Khu vực bán hàng",
+        "assignment": "Phân công khu vực",
+        "assignments": "Phân công khu vực",
         "parent": "Khu vực cấp trên",
         "salesPerson": "Nhân viên bán hàng",
-        "territory": "Khu vực bán hàng"
+        "salesTerritories": "Khu vực bán hàng",
+        "territory": "Khu vực bán hàng",
+        "territoryCustomer": "Khu vực bán hàng – Khách hàng",
+        "territoryCustomers": "Khu vực bán hàng – Khách hàng",
+        "territoryLead": "Khu vực bán hàng – Khách hàng tiềm năng",
+        "territoryLeads": "Khu vực bán hàng – Khách hàng tiềm năng",
+        "territoryTarget": "Khu vực bán hàng – Mục tiêu bán hàng",
+        "territoryTargets": "Khu vực bán hàng – Mục tiêu bán hàng"
     },
-    "panel": {
-        "assignments": "Phân công khu vực"
-    }
+    "panel": {}
 }

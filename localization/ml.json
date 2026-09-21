@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "വിൽപ്പന പ്രദേശങ്ങൾ",
+        "assignment": "പ്രദേശ ചുമതലകൾ",
+        "assignments": "പ്രദേശ ചുമതലകൾ",
         "parent": "മാതൃ പ്രദേശം",
         "salesPerson": "വിൽപ്പന പ്രതിനിധി",
-        "territory": "വിൽപ്പന പ്രദേശം"
+        "salesTerritories": "വിൽപ്പന പ്രദേശങ്ങൾ",
+        "territory": "വിൽപ്പന പ്രദേശം",
+        "territoryCustomer": "വിൽപ്പന പ്രദേശം – ഉപഭോക്താവ്",
+        "territoryCustomers": "വിൽപ്പന പ്രദേശങ്ങൾ – ഉപഭോക്താക്കൾ",
+        "territoryLead": "വിൽപ്പന പ്രദേശം – സാധ്യതയുള്ള ഉപഭോക്താവ്",
+        "territoryLeads": "വിൽപ്പന പ്രദേശങ്ങൾ – സാധ്യതയുള്ള ഉപഭോക്താക്കൾ",
+        "territoryTarget": "വിൽപ്പന പ്രദേശം – വിൽപ്പന ലക്ഷ്യം",
+        "territoryTargets": "വിൽപ്പന പ്രദേശങ്ങൾ – വിൽപ്പന ലക്ഷ്യങ്ങൾ"
     },
-    "panel": {
-        "assignments": "പ്രദേശ ചുമതലകൾ"
-    }
+    "panel": {}
 }

@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "የሽያጭ ክልሎች",
+        "assignment": "የክልል ምደባዎች",
+        "assignments": "የክልል ምደባዎች",
         "parent": "ወላጅ ክልል",
         "salesPerson": "የሽያጭ ተወካይ",
-        "territory": "የሽያጭ ክልል"
+        "salesTerritories": "የሽያጭ ክልሎች",
+        "territory": "የሽያጭ ክልል",
+        "territoryCustomer": "የሽያጭ ክልል – ደንበኛ",
+        "territoryCustomers": "የሽያጭ ክልሎች – ደንበኞች",
+        "territoryLead": "የሽያጭ ክልል – ደንበኛ ሊሆን የሚችል",
+        "territoryLeads": "የሽያጭ ክልሎች – ደንበኛ ሊሆኑ የሚችሉ",
+        "territoryTarget": "የሽያጭ ክልል – የሽያጭ ዒላማ",
+        "territoryTargets": "የሽያጭ ክልሎች – የሽያጭ ዒላማዎች"
     },
-    "panel": {
-        "assignments": "የክልል ምደባዎች"
-    }
+    "panel": {}
 }

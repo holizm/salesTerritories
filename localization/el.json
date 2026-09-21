@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Περιοχές πωλήσεων",
+        "assignment": "Αναθέσεις περιοχών",
+        "assignments": "Αναθέσεις περιοχών",
         "parent": "Γονική περιοχή",
         "salesPerson": "Πωλητής",
-        "territory": "Περιοχή πωλήσεων"
+        "salesTerritories": "Περιοχές πωλήσεων",
+        "territory": "Περιοχή πωλήσεων",
+        "territoryCustomer": "Περιοχή πωλήσεων – Πελάτης",
+        "territoryCustomers": "Περιοχές πωλήσεων – Πελάτες",
+        "territoryLead": "Περιοχή πωλήσεων – Υποψήφιος πελάτης",
+        "territoryLeads": "Περιοχές πωλήσεων – Υποψήφιοι πελάτες",
+        "territoryTarget": "Περιοχή πωλήσεων – Στόχος πωλήσεων",
+        "territoryTargets": "Περιοχές πωλήσεων – Στόχοι πωλήσεων"
     },
-    "panel": {
-        "assignments": "Αναθέσεις περιοχών"
-    }
+    "panel": {}
 }

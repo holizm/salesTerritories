@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "ਵਿਕਰੀ ਖੇਤਰ",
+        "assignment": "ਖੇਤਰ ਨਿਯੁਕਤੀਆਂ",
+        "assignments": "ਖੇਤਰ ਨਿਯੁਕਤੀਆਂ",
         "parent": "ਮੁੱਖ ਖੇਤਰ",
         "salesPerson": "ਵਿਕਰੀ ਪ੍ਰਤੀਨਿਧੀ",
-        "territory": "ਵਿਕਰੀ ਖੇਤਰ"
+        "salesTerritories": "ਵਿਕਰੀ ਖੇਤਰ",
+        "territory": "ਵਿਕਰੀ ਖੇਤਰ",
+        "territoryCustomer": "ਵਿਕਰੀ ਖੇਤਰ – ਗਾਹਕ",
+        "territoryCustomers": "ਵਿਕਰੀ ਖੇਤਰ – ਗਾਹਕ",
+        "territoryLead": "ਵਿਕਰੀ ਖੇਤਰ – ਸੰਭਾਵੀ ਗਾਹਕ",
+        "territoryLeads": "ਵਿਕਰੀ ਖੇਤਰ – ਸੰਭਾਵੀ ਗਾਹਕ",
+        "territoryTarget": "ਵਿਕਰੀ ਖੇਤਰ – ਵਿਕਰੀ ਟੀਚਾ",
+        "territoryTargets": "ਵਿਕਰੀ ਖੇਤਰ – ਵਿਕਰੀ ਟੀਚੇ"
     },
-    "panel": {
-        "assignments": "ਖੇਤਰ ਨਿਯੁਕਤੀਆਂ"
-    }
+    "panel": {}
 }

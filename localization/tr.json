@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Satış bölgeleri",
+        "assignment": "Bölge atamaları",
+        "assignments": "Bölge atamaları",
         "parent": "Üst bölge",
         "salesPerson": "Satış temsilcisi",
-        "territory": "Satış bölgesi"
+        "salesTerritories": "Satış bölgeleri",
+        "territory": "Satış bölgesi",
+        "territoryCustomer": "Satış bölgesi – Müşteri",
+        "territoryCustomers": "Satış bölgeleri – Müşteriler",
+        "territoryLead": "Satış bölgesi – Potansiyel müşteri",
+        "territoryLeads": "Satış bölgeleri – Potansiyel müşteriler",
+        "territoryTarget": "Satış bölgesi – Satış hedefi",
+        "territoryTargets": "Satış bölgeleri – Satış hedefleri"
     },
-    "panel": {
-        "assignments": "Bölge atamaları"
-    }
+    "panel": {}
 }

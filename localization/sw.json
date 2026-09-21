@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Maeneo ya mauzo",
+        "assignment": "Ugawaji wa maeneo",
+        "assignments": "Ugawaji wa maeneo",
         "parent": "Eneo kuu",
         "salesPerson": "Muuzaji",
-        "territory": "Eneo la mauzo"
+        "salesTerritories": "Maeneo ya mauzo",
+        "territory": "Eneo la mauzo",
+        "territoryCustomer": "Eneo la mauzo – Mteja",
+        "territoryCustomers": "Maeneo ya mauzo – Wateja",
+        "territoryLead": "Eneo la mauzo – Mteja mtarajiwa",
+        "territoryLeads": "Maeneo ya mauzo – Wateja watarajiwa",
+        "territoryTarget": "Eneo la mauzo – Lengo la mauzo",
+        "territoryTargets": "Maeneo ya mauzo – Malengo ya mauzo"
     },
-    "panel": {
-        "assignments": "Ugawaji wa maeneo"
-    }
+    "panel": {}
 }

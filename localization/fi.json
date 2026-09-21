@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Myyntialueet",
+        "assignment": "Alueiden määritykset",
+        "assignments": "Alueiden määritykset",
         "parent": "Ylempi alue",
         "salesPerson": "Myyjä",
-        "territory": "Myyntialue"
+        "salesTerritories": "Myyntialueet",
+        "territory": "Myyntialue",
+        "territoryCustomer": "Myyntialue – Asiakas",
+        "territoryCustomers": "Myyntialueet – Asiakkaat",
+        "territoryLead": "Myyntialue – Potentiaalinen asiakas",
+        "territoryLeads": "Myyntialueet – Potentiaaliset asiakkaat",
+        "territoryTarget": "Myyntialue – Myyntitavoite",
+        "territoryTargets": "Myyntialueet – Myyntitavoitteet"
     },
-    "panel": {
-        "assignments": "Alueiden määritykset"
-    }
+    "panel": {}
 }

@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Verkoopsgebiede",
+        "assignment": "Gebiedstoewysings",
+        "assignments": "Gebiedstoewysings",
         "parent": "Ouergebied",
         "salesPerson": "Verkoopsverteenwoordiger",
-        "territory": "Verkoopsgebied"
+        "salesTerritories": "Verkoopsgebiede",
+        "territory": "Verkoopsgebied",
+        "territoryCustomer": "Verkoopsgebied – Kliënt",
+        "territoryCustomers": "Verkoopsgebiede – Kliënte",
+        "territoryLead": "Verkoopsgebied – Potensiële klant",
+        "territoryLeads": "Verkoopsgebiede – Potensiële klante",
+        "territoryTarget": "Verkoopsgebied – Verkoopteiken",
+        "territoryTargets": "Verkoopsgebiede – Verkoopteikens"
     },
-    "panel": {
-        "assignments": "Gebiedstoewysings"
-    }
+    "panel": {}
 }

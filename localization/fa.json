@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "مناطق فروش",
+        "assignment": "تخصیص مناطق فروش",
+        "assignments": "تخصیص مناطق فروش",
         "parent": "منطقه بالادستی",
         "salesPerson": "کارشناس فروش",
-        "territory": "منطقه فروش"
+        "salesTerritories": "مناطق فروش",
+        "territory": "منطقه فروش",
+        "territoryCustomer": "منطقه فروش – مشتری",
+        "territoryCustomers": "مناطق فروش – مشتریان",
+        "territoryLead": "منطقه فروش – سرنخ فروش",
+        "territoryLeads": "مناطق فروش – سرنخ‌ها",
+        "territoryTarget": "منطقه فروش – هدف فروش",
+        "territoryTargets": "مناطق فروش – اهداف فروش"
     },
-    "panel": {
-        "assignments": "تخصیص مناطق فروش"
-    }
+    "panel": {}
 }

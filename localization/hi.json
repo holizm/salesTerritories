@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "बिक्री क्षेत्र",
+        "assignment": "क्षेत्र आवंटन",
+        "assignments": "क्षेत्र आवंटन",
         "parent": "मूल क्षेत्र",
         "salesPerson": "विक्रेता",
-        "territory": "बिक्री क्षेत्र"
+        "salesTerritories": "बिक्री क्षेत्र",
+        "territory": "बिक्री क्षेत्र",
+        "territoryCustomer": "बिक्री क्षेत्र – ग्राहक",
+        "territoryCustomers": "बिक्री क्षेत्र – ग्राहक",
+        "territoryLead": "बिक्री क्षेत्र – संभावित ग्राहक",
+        "territoryLeads": "बिक्री क्षेत्र – संभावित ग्राहक",
+        "territoryTarget": "बिक्री क्षेत्र – बिक्री लक्ष्य",
+        "territoryTargets": "बिक्री क्षेत्र – बिक्री लक्ष्य"
     },
-    "panel": {
-        "assignments": "क्षेत्र आवंटन"
-    }
+    "panel": {}
 }

@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "販売地域",
+        "assignment": "地域の割り当て",
+        "assignments": "地域の割り当て",
         "parent": "上位地域",
         "salesPerson": "営業担当者",
-        "territory": "販売地域"
+        "salesTerritories": "販売地域",
+        "territory": "販売地域",
+        "territoryCustomer": "販売地域 – 顧客",
+        "territoryCustomers": "販売地域 – 顧客",
+        "territoryLead": "販売地域 – 見込み顧客",
+        "territoryLeads": "販売地域 – 見込み顧客",
+        "territoryTarget": "販売地域 – 販売目標",
+        "territoryTargets": "販売地域 – 販売目標"
     },
-    "panel": {
-        "assignments": "地域の割り当て"
-    }
+    "panel": {}
 }

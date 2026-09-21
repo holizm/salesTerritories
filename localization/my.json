@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "အရောင်းနယ်မြေများ",
+        "assignment": "နယ်မြေတာဝန်ပေးမှုများ",
+        "assignments": "နယ်မြေတာဝန်ပေးမှုများ",
         "parent": "မိခင်နယ်မြေ",
         "salesPerson": "အရောင်းဝန်ထမ်း",
-        "territory": "အရောင်းနယ်မြေ"
+        "salesTerritories": "အရောင်းနယ်မြေများ",
+        "territory": "အရောင်းနယ်မြေ",
+        "territoryCustomer": "အရောင်းနယ်မြေ – ဖောက်သည်",
+        "territoryCustomers": "အရောင်းနယ်မြေများ – ဖောက်သည်များ",
+        "territoryLead": "အရောင်းနယ်မြေ – အလားအလာရှိသော ဖောက်သည်",
+        "territoryLeads": "အရောင်းနယ်မြေများ – အလားအလာရှိသော ဖောက်သည်များ",
+        "territoryTarget": "အရောင်းနယ်မြေ – အရောင်းပစ်မှတ်",
+        "territoryTargets": "အရောင်းနယ်မြေများ – အရောင်းပစ်မှတ်များ"
     },
-    "panel": {
-        "assignments": "နယ်မြေတာဝန်ပေးမှုများ"
-    }
+    "panel": {}
 }

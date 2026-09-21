@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Verkaufsgebiete",
+        "assignment": "Gebietszuweisungen",
+        "assignments": "Gebietszuweisungen",
         "parent": "Übergeordnetes Gebiet",
         "salesPerson": "Vertriebsmitarbeiter",
-        "territory": "Verkaufsgebiet"
+        "salesTerritories": "Verkaufsgebiete",
+        "territory": "Verkaufsgebiet",
+        "territoryCustomer": "Verkaufsgebiet – Kunde",
+        "territoryCustomers": "Verkaufsgebiete – Kunden",
+        "territoryLead": "Verkaufsgebiet – Interessent",
+        "territoryLeads": "Verkaufsgebiete – Interessenten",
+        "territoryTarget": "Verkaufsgebiet – Verkaufsziel",
+        "territoryTargets": "Verkaufsgebiete – Verkaufsziele"
     },
-    "panel": {
-        "assignments": "Gebietszuweisungen"
-    }
+    "panel": {}
 }

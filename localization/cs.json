@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Prodejní oblasti",
+        "assignment": "Přiřazení oblastí",
+        "assignments": "Přiřazení oblastí",
         "parent": "Nadřazená oblast",
         "salesPerson": "Prodejce",
-        "territory": "Prodejní oblast"
+        "salesTerritories": "Prodejní oblasti",
+        "territory": "Prodejní oblast",
+        "territoryCustomer": "Prodejní oblast – Zákazník",
+        "territoryCustomers": "Prodejní oblasti – Zákazníci",
+        "territoryLead": "Prodejní oblast – Potenciální zákazník",
+        "territoryLeads": "Prodejní oblasti – Potenciální zákazníci",
+        "territoryTarget": "Prodejní oblast – Prodejní cíl",
+        "territoryTargets": "Prodejní oblasti – Prodejní cíle"
     },
-    "panel": {
-        "assignments": "Přiřazení oblastí"
-    }
+    "panel": {}
 }

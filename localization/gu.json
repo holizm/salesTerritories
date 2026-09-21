@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "વેચાણ પ્રદેશો",
+        "assignment": "પ્રદેશ સોંપણીઓ",
+        "assignments": "પ્રદેશ સોંપણીઓ",
         "parent": "મુખ્ય પ્રદેશ",
         "salesPerson": "વેચાણ પ્રતિનિધિ",
-        "territory": "વેચાણ પ્રદેશ"
+        "salesTerritories": "વેચાણ પ્રદેશો",
+        "territory": "વેચાણ પ્રદેશ",
+        "territoryCustomer": "વેચાણ પ્રદેશ – ગ્રાહક",
+        "territoryCustomers": "વેચાણ પ્રદેશો – ગ્રાહકો",
+        "territoryLead": "વેચાણ પ્રદેશ – સંભવિત ગ્રાહક",
+        "territoryLeads": "વેચાણ પ્રદેશો – સંભવિત ગ્રાહકો",
+        "territoryTarget": "વેચાણ પ્રદેશ – વેચાણ લક્ષ્ય",
+        "territoryTargets": "વેચાણ પ્રદેશો – વેચાણ લક્ષ્યો"
     },
-    "panel": {
-        "assignments": "પ્રદેશ સોંપણીઓ"
-    }
+    "panel": {}
 }

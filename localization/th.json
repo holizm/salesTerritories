@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "เขตการขาย",
+        "assignment": "การมอบหมายเขต",
+        "assignments": "การมอบหมายเขต",
         "parent": "เขตหลัก",
         "salesPerson": "พนักงานขาย",
-        "territory": "เขตการขาย"
+        "salesTerritories": "เขตการขาย",
+        "territory": "เขตการขาย",
+        "territoryCustomer": "เขตการขาย – ลูกค้า",
+        "territoryCustomers": "เขตการขาย – ลูกค้า",
+        "territoryLead": "เขตการขาย – ผู้มีโอกาสเป็นลูกค้า",
+        "territoryLeads": "เขตการขาย – ผู้มีโอกาสเป็นลูกค้า",
+        "territoryTarget": "เขตการขาย – เป้าหมายการขาย",
+        "territoryTargets": "เขตการขาย – เป้าหมายการขาย"
     },
-    "panel": {
-        "assignments": "การมอบหมายเขต"
-    }
+    "panel": {}
 }

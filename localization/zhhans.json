@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "销售区域",
+        "assignment": "区域分配",
+        "assignments": "区域分配",
         "parent": "上级区域",
         "salesPerson": "销售人员",
-        "territory": "销售区域"
+        "salesTerritories": "销售区域",
+        "territory": "销售区域",
+        "territoryCustomer": "销售区域 – 客户",
+        "territoryCustomers": "销售区域 – 客户",
+        "territoryLead": "销售区域 – 潜在客户",
+        "territoryLeads": "销售区域 – 潜在客户",
+        "territoryTarget": "销售区域 – 销售目标",
+        "territoryTargets": "销售区域 – 销售目标"
     },
-    "panel": {
-        "assignments": "区域分配"
-    }
+    "panel": {}
 }

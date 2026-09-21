@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Teritorii de vânzări",
+        "assignment": "Alocări de teritorii",
+        "assignments": "Alocări de teritorii",
         "parent": "Teritoriu părinte",
         "salesPerson": "Agent de vânzări",
-        "territory": "Teritoriu de vânzări"
+        "salesTerritories": "Teritorii de vânzări",
+        "territory": "Teritoriu de vânzări",
+        "territoryCustomer": "Teritoriu de vânzări – Client",
+        "territoryCustomers": "Teritorii de vânzări – Clienți",
+        "territoryLead": "Teritoriu de vânzări – Client potențial",
+        "territoryLeads": "Teritorii de vânzări – Clienți potențiali",
+        "territoryTarget": "Teritoriu de vânzări – Obiectiv de vânzări",
+        "territoryTargets": "Teritorii de vânzări – Obiective de vânzări"
     },
-    "panel": {
-        "assignments": "Alocări de teritorii"
-    }
+    "panel": {}
 }

@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Salgsområder",
+        "assignment": "Områdetildelinger",
+        "assignments": "Områdetildelinger",
         "parent": "Overordnet område",
         "salesPerson": "Selger",
-        "territory": "Salgsområde"
+        "salesTerritories": "Salgsområder",
+        "territory": "Salgsområde",
+        "territoryCustomer": "Salgsområde – Kunde",
+        "territoryCustomers": "Salgsområder – Kunder",
+        "territoryLead": "Salgsområde – Potensiell kunde",
+        "territoryLeads": "Salgsområder – Potensielle kunder",
+        "territoryTarget": "Salgsområde – Salgsmål",
+        "territoryTargets": "Salgsområder – Salgsmål"
     },
-    "panel": {
-        "assignments": "Områdetildelinger"
-    }
+    "panel": {}
 }

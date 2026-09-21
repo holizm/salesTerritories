@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "ಮಾರಾಟ ಪ್ರದೇಶಗಳು",
+        "assignment": "ಪ್ರದೇಶ ನಿಯೋಜನೆಗಳು",
+        "assignments": "ಪ್ರದೇಶ ನಿಯೋಜನೆಗಳು",
         "parent": "ಮೂಲ ಪ್ರದೇಶ",
         "salesPerson": "ಮಾರಾಟ ಪ್ರತಿನಿಧಿ",
-        "territory": "ಮಾರಾಟ ಪ್ರದೇಶ"
+        "salesTerritories": "ಮಾರಾಟ ಪ್ರದೇಶಗಳು",
+        "territory": "ಮಾರಾಟ ಪ್ರದೇಶ",
+        "territoryCustomer": "ಮಾರಾಟ ಪ್ರದೇಶ – ಗ್ರಾಹಕ",
+        "territoryCustomers": "ಮಾರಾಟ ಪ್ರದೇಶಗಳು – ಗ್ರಾಹಕರು",
+        "territoryLead": "ಮಾರಾಟ ಪ್ರದೇಶ – ಸಂಭಾವ್ಯ ಗ್ರಾಹಕ",
+        "territoryLeads": "ಮಾರಾಟ ಪ್ರದೇಶಗಳು – ಸಂಭಾವ್ಯ ಗ್ರಾಹಕರು",
+        "territoryTarget": "ಮಾರಾಟ ಪ್ರದೇಶ – ಮಾರಾಟ ಗುರಿ",
+        "territoryTargets": "ಮಾರಾಟ ಪ್ರದೇಶಗಳು – ಮಾರಾಟ ಗುರಿಗಳು"
     },
-    "panel": {
-        "assignments": "ಪ್ರದೇಶ ನಿಯೋಜನೆಗಳು"
-    }
+    "panel": {}
 }

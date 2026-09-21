@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Території продажів",
+        "assignment": "Призначення територій",
+        "assignments": "Призначення територій",
         "parent": "Батьківська територія",
         "salesPerson": "Менеджер із продажу",
-        "territory": "Територія продажів"
+        "salesTerritories": "Території продажів",
+        "territory": "Територія продажів",
+        "territoryCustomer": "Територія продажів – Клієнт",
+        "territoryCustomers": "Території продажів – Клієнти",
+        "territoryLead": "Територія продажів – Потенційний клієнт",
+        "territoryLeads": "Території продажів – Потенційні клієнти",
+        "territoryTarget": "Територія продажів – Ціль продажів",
+        "territoryTargets": "Території продажів – Цілі продажів"
     },
-    "panel": {
-        "assignments": "Призначення територій"
-    }
+    "panel": {}
 }

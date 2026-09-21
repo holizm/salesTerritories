@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "Értékesítési területek",
+        "assignment": "Területi hozzárendelések",
+        "assignments": "Területi hozzárendelések",
         "parent": "Fölérendelt terület",
         "salesPerson": "Értékesítő",
-        "territory": "Értékesítési terület"
+        "salesTerritories": "Értékesítési területek",
+        "territory": "Értékesítési terület",
+        "territoryCustomer": "Értékesítési terület – Ügyfél",
+        "territoryCustomers": "Értékesítési területek – Ügyfelek",
+        "territoryLead": "Értékesítési terület – Potenciális ügyfél",
+        "territoryLeads": "Értékesítési területek – Potenciális ügyfelek",
+        "territoryTarget": "Értékesítési terület – Értékesítési cél",
+        "territoryTargets": "Értékesítési területek – Értékesítési célok"
     },
-    "panel": {
-        "assignments": "Területi hozzárendelések"
-    }
+    "panel": {}
 }

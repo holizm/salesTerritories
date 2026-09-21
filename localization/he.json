@@ -1,11 +1,17 @@
 {
     "common": {
-        "salesTerritories": "אזורי מכירות",
+        "assignment": "הקצאות אזורים",
+        "assignments": "הקצאות אזורים",
         "parent": "אזור אב",
         "salesPerson": "איש מכירות",
-        "territory": "אזור מכירות"
+        "salesTerritories": "אזורי מכירות",
+        "territory": "אזור מכירות",
+        "territoryCustomer": "אזור מכירות – לקוח",
+        "territoryCustomers": "אזורי מכירות – לקוחות",
+        "territoryLead": "אזור מכירות – לקוח פוטנציאלי",
+        "territoryLeads": "אזורי מכירות – לקוחות פוטנציאליים",
+        "territoryTarget": "אזור מכירות – יעד מכירות",
+        "territoryTargets": "אזורי מכירות – יעדי מכירות"
     },
-    "panel": {
-        "assignments": "הקצאות אזורים"
-    }
+    "panel": {}
 }
