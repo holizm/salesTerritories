@@ -8,22 +8,12 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='code'
-        property='code'
+        code
         required
     />
-    <Text
-        placeholder='place'
-        property='place'
-    />
-    <Text
-        placeholder='parent'
-        property='parent'
-    />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <Text place />
+    <Text parent />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />

@@ -7,23 +7,18 @@ import {
 const inputs = <>
     <Text
         placeholder='territory'
-        property='salesTerritory'
         required
+        salesTerritory
     />
     <Text
-        placeholder='salesPerson'
-        property='salesPerson'
         required
+        salesPerson
     />
     <DateTime
-        placeholder='startDate'
-        property='startDate'
         required
+        startDate
     />
-    <DateTime
-        placeholder='endDate'
-        property='endDate'
-    />
+    <DateTime endDate />
 </>
 
 export default <DialogForm inputs={inputs} />
