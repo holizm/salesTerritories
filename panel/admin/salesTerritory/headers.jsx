@@ -1,6 +1,6 @@
 export default <>
-    <th start>salesTerritoriesTerritory</th>
-    <th>salesTerritoriesCode</th>
-    <th>salesTerritoriesPlace</th>
-    <th>stateMachinesState</th>
+    <th start>territory</th>
+    <th>code</th>
+    <th>place</th>
+    <th>state</th>
 </>

@@ -1,6 +1,6 @@
 export default <>
-    <th start>salesTerritoriesTerritory</th>
-    <th>salesTerritoriesSalesPerson</th>
-    <th>salesTerritoriesStartDate</th>
-    <th>salesTerritoriesEndDate</th>
+    <th start>territory</th>
+    <th>salesPerson</th>
+    <th>startDate</th>
+    <th>endDate</th>
 </>

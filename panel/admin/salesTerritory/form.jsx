@@ -8,20 +8,20 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='salesTerritoriesCode'
+        placeholder='code'
         property='code'
         required
     />
     <Text
-        placeholder='salesTerritoriesPlace'
+        placeholder='place'
         property='place'
     />
     <Text
-        placeholder='salesTerritoriesParent'
+        placeholder='parent'
         property='parent'
     />
     <LongText
-        placeholder='salesTerritoriesDescription'
+        placeholder='description'
         property='description'
     />
 </>

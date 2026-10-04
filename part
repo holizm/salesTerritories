@@ -6,6 +6,8 @@ salesTerritory
     state
     description optional
     unique code
+    uses
+        stateMachines
 territoryAssignment
     salesTerritory
     salesPerson

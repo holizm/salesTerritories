@@ -6,22 +6,22 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='salesTerritoriesTerritory'
+        placeholder='territory'
         property='salesTerritory'
         required
     />
     <Text
-        placeholder='salesTerritoriesSalesPerson'
+        placeholder='salesPerson'
         property='salesPerson'
         required
     />
     <DateTime
-        placeholder='salesTerritoriesStartDate'
+        placeholder='startDate'
         property='startDate'
         required
     />
     <DateTime
-        placeholder='salesTerritoriesEndDate'
+        placeholder='endDate'
         property='endDate'
     />
 </>

@@ -3,15 +3,15 @@ export default [
         children: [
             {
                 path: '/salesTerritories/salesTerritory/list',
-                title: 'salesTerritoriesTerritories',
+                title: 'territories',
             },
             {
                 path: '/salesTerritories/territoryAssignment/list',
-                title: 'salesTerritoriesAssignments',
+                title: 'assignments',
             },
         ],
         icon: 'map',
         path: '/salesTerritories',
-        title: 'salesTerritoriesSalesTerritories',
+        title: 'salesTerritories',
     },
 ]
