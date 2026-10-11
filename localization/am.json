@@ -1,6 +1,6 @@
 {
     "common": {
-        "assignment": "የክልል ምደባዎች",
+        "assignment": "የክልል ምደባ",
         "assignments": "የክልል ምደባዎች",
         "parent": "ወላጅ ክልል",
         "salesPerson": "የሽያጭ ተወካይ",
@@ -8,8 +8,8 @@
         "territory": "የሽያጭ ክልል",
         "territoryCustomer": "የሽያጭ ክልል – ደንበኛ",
         "territoryCustomers": "የሽያጭ ክልሎች – ደንበኞች",
-        "territoryLead": "የሽያጭ ክልል – ደንበኛ ሊሆን የሚችል",
-        "territoryLeads": "የሽያጭ ክልሎች – ደንበኛ ሊሆኑ የሚችሉ",
+        "territoryLead": "የሽያጭ ክልል – እምቅ ደንበኛ",
+        "territoryLeads": "የሽያጭ ክልሎች – እምቅ ደንበኞች",
         "territoryTarget": "የሽያጭ ክልል – የሽያጭ ዒላማ",
         "territoryTargets": "የሽያጭ ክልሎች – የሽያጭ ዒላማዎች"
     },

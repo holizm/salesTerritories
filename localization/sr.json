@@ -1,13 +1,13 @@
 {
     "common": {
-        "assignment": "Доделе подручја",
+        "assignment": "Додела подручја",
         "assignments": "Доделе подручја",
         "parent": "Надређено подручје",
         "salesPerson": "Продајни представник",
         "salesTerritories": "Продајна подручја",
         "territory": "Продајно подручје",
         "territoryCustomer": "Продајно подручје – Клијент",
-        "territoryCustomers": "Продајна подручја – Kupci",
+        "territoryCustomers": "Продајна подручја – Купци",
         "territoryLead": "Продајно подручје – Потенцијални клијент",
         "territoryLeads": "Продајна подручја – Потенцијални клијенти",
         "territoryTarget": "Продајно подручје – Продајни циљ",

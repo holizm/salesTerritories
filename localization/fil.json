@@ -1,15 +1,15 @@
 {
     "common": {
-        "assignment": "Mga pagtatalaga ng teritoryo",
+        "assignment": "Pagtatalaga ng teritoryo",
         "assignments": "Mga pagtatalaga ng teritoryo",
-        "parent": "Pangunahing teritoryo",
-        "salesPerson": "Salesperson",
+        "parent": "Pinagmulang teritoryo",
+        "salesPerson": "Kinatawan sa pagbebenta",
         "salesTerritories": "Mga teritoryo ng benta",
         "territory": "Teritoryo ng benta",
-        "territoryCustomer": "Teritoryo ng benta – Customer",
-        "territoryCustomers": "Mga teritoryo ng benta – Mga customer",
-        "territoryLead": "Teritoryo ng benta – Prospect",
-        "territoryLeads": "Mga teritoryo ng benta – Mga prospect",
+        "territoryCustomer": "Teritoryo ng benta – Kustomer",
+        "territoryCustomers": "Mga teritoryo ng benta – Mga kustomer",
+        "territoryLead": "Teritoryo ng benta – Potensiyal na kustomer",
+        "territoryLeads": "Mga teritoryo ng benta – Mga potensiyal na kustomer",
         "territoryTarget": "Teritoryo ng benta – Target sa benta",
         "territoryTargets": "Mga teritoryo ng benta – Mga target sa benta"
     },
